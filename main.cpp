@@ -3,8 +3,8 @@
 #include <Windows.h>
 
 int main() {
-	SetConsoleOutputCP(65001);
-	char str[] = "サ";
-	printf("%s", str);
+
+	printf("ああああ");
+	
 	return 0;
 }
